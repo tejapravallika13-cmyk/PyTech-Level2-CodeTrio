@@ -32,3 +32,5 @@ Pass criteria:
 
 ## Output
 The model displays accuracy and predicts PASS or FAIL based on input scores.
+
+## TeamName - CodeTrio
